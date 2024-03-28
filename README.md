@@ -1,3 +1,2 @@
-# brain-tumor-detection
+# Brain Tumor Detection Project
 
-hehehehehehehehehehehehehehe
