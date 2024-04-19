@@ -11,7 +11,7 @@ Install the required packages
 pip install -r requirements.txt
 ```
 # Dataset
-The dataset used in this project is the Brain MRI Images for Brain Tumor Detection. The dataset can be downloaded from the following link: ['link to dataset](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection)
+The dataset used in this project is the Brain MRI Images for Brain Tumor Detection Br35H. The dataset can be downloaded from the following link: [link to dataset](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection)
 
 # Running the project
 To run the project, execute the following command:
