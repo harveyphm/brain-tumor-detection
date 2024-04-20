@@ -21,8 +21,6 @@ class TumorDetectorGUI():
         self.cnn = load_model(CNN_PATH)
         self.seg = findTumorContour
 
-        # self.logo_path = os.path.join('misc', 'cougar_ai_logo.png')
-
     @staticmethod
     def _convert_image(img):
         # encode
