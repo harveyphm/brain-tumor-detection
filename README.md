@@ -35,6 +35,7 @@ git clone https://github.com/harveyphm/brain-tumor-detection
 ```
 Install the required packages
 ```
+cd brain-tumor-detection
 pip install -r requirements.txt
 ```
 
