@@ -7,6 +7,17 @@ This project adopts a dual-approach methodology to optimize the accuracy and eff
 
 ## Team members
 ------------------------------------
+|Team member| Github Link|
+|:---|:-----------:|
+|Harvey| [:link:](https://github.com/harveyphm)|
+|Haven| [:link:](https://github.com/daeullee12)|
+|Damilola| [:link:](https://github.com/0001) |
+|Onyi|  [:link:](https://github.com/0001) |
+|Quynh|  [:link:](https://github.com/0001) |
+|Felipe|  [:link:](https://github.com/0001) |
+|Abolade|  [:link:](https://github.com/0001) |
+|Hussain|  [:link:](https://github.com/0001) |
+
 
 ## Dataset
 ------------------------------------
