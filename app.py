@@ -4,7 +4,7 @@ import numpy as np
 import streamlit as st
 from io import BytesIO
 
-
+from timeit import default_timer as timer
 from models.cnn.utils import load_model
 from opencv import findTumorContour
 
@@ -30,7 +30,8 @@ class TumorDetectorGUI():
         return byte_im
     
     def _detect_tumors_image(self,col1, col2, path = None ):
-            
+        
+        start = timer() 
         if self.img_file_buffer is not None:
             bytes_data = self.img_file_buffer.getvalue()
             self.img = cv2.imdecode(np.frombuffer(bytes_data, np.uint8), cv2.IMREAD_COLOR)
@@ -78,7 +79,8 @@ class TumorDetectorGUI():
             for c in cnts_list:
                 draw_img = cv2.drawContours(draw_img, c, -1, (0, 255, 0), 2)            
                         
-        
+        end = timer()
+        st.sidebar.write(f"Time elapsed: {end - start:.2f}s")
         col1.write("Original Image :camera:")
         col1.image(self.img)
         col2.write("Segmented Image :wrench:")
