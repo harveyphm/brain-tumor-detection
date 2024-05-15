@@ -4,8 +4,8 @@
 # Brain Tumor Detection Project
 
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.11-or?logo=python" alt="python"></a>
-<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/OpenCV-3.5.11-or?logo=OpenCV" alt="OpenCV"></a>
-<a href="https://pyg.org/"><img src="https://img.shields.io/badge/streamlit-latest-or?logo=Streamlit" alt="Streamlit"></a>
+<a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-3.5.11-or?logo=OpenCV" alt="OpenCV"></a>
+<a href="https://streamlit.io/"><img src="https://img.shields.io/badge/streamlit-latest-or?logo=Streamlit" alt="Streamlit"></a>
  
 </div>
 
