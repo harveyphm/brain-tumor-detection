@@ -9,8 +9,6 @@
  
 </div>
 
-
-------------------------------------
 This is a group project from EDS 6397: Digital Image Processing at University of Houston - Spring 2024
 
 ![webapp](img/webapp.jpg)
