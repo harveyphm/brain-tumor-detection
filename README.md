@@ -3,9 +3,9 @@
  
 # Brain Tumor Detection Project
 
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.9-or?logo=python" alt="python"></a>
-<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/Pytoch-2.2.1-or?logo=PyTorch" alt="Pytorch"></a>
-<a href="https://pyg.org/"><img src="https://img.shields.io/badge/PyG-2.5.3-or?logo=PyG" alt="TorchGeometric"></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.11-or?logo=python" alt="python"></a>
+<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/OpenCV-3.5.11-or?logo=OpenCV" alt="OpenCV"></a>
+<a href="https://pyg.org/"><img src="https://img.shields.io/badge/streamlit-latest-or?logo=Streamlit" alt="Streamlit"></a>
  
 </div>
 
@@ -59,7 +59,7 @@ To run the project, execute the following command:
 streamlit run main.py
 ```
 
-# Contributing
+## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -71,13 +71,13 @@ Contributions are what make the open source community such an amazing place to b
 
 
 <!-- LICENSE -->
-# License
+## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- Authors -->
-# Authors
+## Authors
 
 Harvey Pham 
 [@Linkedin](https://www.linkedin.com/in/harveyphm/) 
