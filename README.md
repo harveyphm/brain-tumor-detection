@@ -37,7 +37,7 @@ This project adopts a dual-approach methodology to optimize the accuracy and eff
 
 The dataset used in this project is the Brain MRI Images for Brain Tumor Detection Br35H. The dataset can be downloaded from the following [link](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection)
 
-## Set up
+## Setup
 ------------------------------------
 
 Clone the repository
