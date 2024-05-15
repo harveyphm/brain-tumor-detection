@@ -51,7 +51,7 @@ pip install -r requirements.txt
 ```
 
 
-## Running the project
+## Usage
 ------------------------------------
 
 To run the project, execute the following command:
