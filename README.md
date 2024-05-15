@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">    
  
-# Brain Tumor Detection Project
+# Brain Tumor Detection 
 
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.11-or?logo=python" alt="python"></a>
 <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-3.5.11-or?logo=OpenCV" alt="OpenCV"></a>
