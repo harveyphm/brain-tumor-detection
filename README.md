@@ -86,7 +86,7 @@ Email: qhuy.phm@gmail.com
 
 
 <!-- ACKNOWLEDGEMENTS -->
-# Acknowledgements
+## Acknowledgements
 
 
-# Thank you
+## Thank you
